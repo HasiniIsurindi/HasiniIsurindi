@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hasini Isurindi</h1>
 
-<!--
-**HasiniIsurindi/HasiniIsurindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Engineering Undergraduate</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+💚 Learning | Building | Improving 💚
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌿 About Me
+
+- 🎓 Software Engineering Undergraduate
+- 💻 Passionate about software development
+- 🌱 Currently learning React and .NET
+- 🚀 Building practical projects
+- 🎤 IEEE Volunteer & Event Compere
+
+---
+
+## 🛠 Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,cs,dotnet,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasiniIsurindi&theme=chartreuse-dark)
+
+---
+
+## 🌱 Current Projects
+
+- Pink Calendar Notes App
+- Car Auction System
+- Portfolio Website
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: Your LinkedIn Link Here
