@@ -53,3 +53,8 @@
 ## 📫 Connect With Me
 
 LinkedIn: Your LinkedIn Link Here
+
+---
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HasiniIsurindi&label=Profile+Views&color=00ff66&style=for-the-badge"/>
+</p>
