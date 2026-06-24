@@ -52,7 +52,9 @@
 
 ## 📫 Connect With Me
 
-LinkedIn: Your LinkedIn Link Here
+LinkedIn: www.linkedin.com/in/hasiniisurindi
+
+
 
 ---
 <p align="center">
