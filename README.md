@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Learning+%7C+Building+%7C+Improving;Future+Full+Stack+Developer" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Hasini Isurindi</h1>
 
 <h3 align="center">Software Engineering Undergraduate</h3>
