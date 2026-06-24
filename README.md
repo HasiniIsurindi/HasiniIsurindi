@@ -21,7 +21,11 @@
 - 🎤 IEEE Volunteer & Event Compere
 
 ---
+## 🏆 GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=HasiniIsurindi&theme=matrix&no-frame=true)
+
+---
 ## 🛠 Technologies
 
 <p>
