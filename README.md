@@ -9,8 +9,15 @@
 <p align="center">
 💚 Learning | Building | Improving 💚
 </p>
+---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff66,50:003300,100:000000&text=HASINI%20ISURINDI&fontColor=ffffff&fontSize=55&animation=twinkling&fontAlignY=40&desc=Software%20Engineering%20Undergraduate&descAlignY=60"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+Developer;Building+Projects;Always+Learning+Something+New" />
+</p>
 
 ---
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2UycDAwNDBjMjd0eW1jcnZhY3l0bWpocGU5aGM0YThsa2c2cHVnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="450" alt="Hasini's Coding Journey">
 </p>
