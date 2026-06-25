@@ -18,13 +18,12 @@
 
 ## 🌿 About Me
 
-<p align="center">
 - 🎓 Software Engineering Undergraduate
 - 💻 Passionate about software development
 - 🌱 Currently learning React and Node.js
 - 🚀 Building practical projects
 - 🎤 IEEE Volunteer & Event Compere
-</p>
+
 
 ---
 ## 🛠 Technologies
@@ -37,20 +36,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
 ![Stats](https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark&count_private=true&cache_seconds=0)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasiniIsurindi&theme=chartreuse-dark&count_private=true&cache_seconds=0)
-</p>
 
 ---
 
 ## 🌱 Current Projects
 
-<p align="center">
 - AI Resume Analyzer
 - MAMA BLOOM
-</p>
+
 
 ---
 ## 🌐 Connect With Me
