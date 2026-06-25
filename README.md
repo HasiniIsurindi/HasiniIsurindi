@@ -12,11 +12,8 @@
 
 ---
 <p align="center">
-  <img src="assets/profile.gif" width="300">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZ4eXBtaDhldDM2dG0xN2RpeWllajdwY2FnbDY5eTdnb211eDg5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="450">
 </p>
-
----
-
 
 ## 🌿 About Me
 
