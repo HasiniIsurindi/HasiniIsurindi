@@ -29,15 +29,6 @@
 - 🎤 IEEE Volunteer & Event Compere
 
 ---
-## 🏆 GitHub Trophies
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true" />
-</p>
-
----
 ## 🛠 Technologies
 
 <p align="center">
