@@ -52,14 +52,29 @@
 - Portfolio Website
 
 ---
+## 🌐 Connect With Me
 
-## 📫 Connect With Me
+<p align="center">
+  
+  <a href="https://github.com/HasiniIsurindi">
+    <img src="https://img.shields.io/badge/GitHub-00FF66?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  
+  <a href="https://linkedin.com/in/hasiniisurindi">
+    <img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
 
-LinkedIn: www.linkedin.com/in/hasiniisurindi
+  <a href="https://hasini.codes">
+    <img src="https://img.shields.io/badge/Portfolio-00FF66?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
 
-
+  <a href="mailto:hasiniisurindi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00FF66?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</p>
 
 ---
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HasiniIsurindi&label=Profile+Views&color=00ff66&style=for-the-badge"/>
 </p>
