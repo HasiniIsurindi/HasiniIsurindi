@@ -36,23 +36,10 @@
 ---
 ## 🛠 Technologies
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java,cs,dotnet,mysql,git,github,vscode" />
 </p>
 
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,cs,dotnet,mysql,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-00FF66?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/.NET-00FF66?style=for-the-badge&logo=dotnet&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-00FF66?style=for-the-badge&logo=mysql&logoColor=black">
-</p>
 ---
 
 ## 📊 GitHub Stats
