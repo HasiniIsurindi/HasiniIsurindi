@@ -14,8 +14,6 @@
 💚 Learning | Building | Improving 💚
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff66,50:003300,100:000000&text=HASINI%20ISURINDI&fontColor=ffffff&fontSize=55&animation=twinkling&fontAlignY=40&desc=Software%20Engineering%20Undergraduate&descAlignY=60"/>
-
 ---
 
 <p align="center">
