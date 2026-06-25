@@ -69,7 +69,7 @@
   </a>
 
   <a href="mailto:hasiniisurindi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FF66?style=for-the-badge&logo=gmail&logoColor=black&textColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Email-00FF66?style=for-the-badge&logo=gmail&logoColor=black&labelColor=FFFFFF" />
   </a>
 </p>
 
