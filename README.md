@@ -6,13 +6,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Learning+%7C+Building+%7C+Improving;Future+Full+Stack+Developer" />
 </p>
 
-<h1 align="center">Hi, I'm Hasini Isurindi</h1>
+<h1 align="center">Hi, I'm Hasini 💚</h1>
 
 <h3 align="center">Software Engineering Undergraduate</h3>
-
-<p align="center">
-💚 Learning | Building | Improving 💚
-</p>
 
 ---
 
@@ -22,11 +18,13 @@
 
 ## 🌿 About Me
 
+<p align="center">
 - 🎓 Software Engineering Undergraduate
 - 💻 Passionate about software development
 - 🌱 Currently learning React and Node.js
 - 🚀 Building practical projects
 - 🎤 IEEE Volunteer & Event Compere
+</p>
 
 ---
 ## 🛠 Technologies
@@ -39,16 +37,20 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
 ![Stats](https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark&count_private=true&cache_seconds=0)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasiniIsurindi&theme=chartreuse-dark&count_private=true&cache_seconds=0)
+</p>
 
 ---
 
 ## 🌱 Current Projects
 
+<p align="center">
 - AI Resume Analyzer
 - MAMA BLOOM
+</p>
 
 ---
 ## 🌐 Connect With Me
@@ -75,5 +77,5 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=HasiniIsurindi&label=Profile+Views&color=00ff66&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=HasiniIsurindi&label=Profile+Views&color=green&style=for-the-badge"/>
 </p>
