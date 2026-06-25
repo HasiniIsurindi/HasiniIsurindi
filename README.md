@@ -24,7 +24,7 @@
 
 - 🎓 Software Engineering Undergraduate
 - 💻 Passionate about software development
-- 🌱 Currently learning React and .NET
+- 🌱 Currently learning React and Node.js
 - 🚀 Building practical projects
 - 🎤 IEEE Volunteer & Event Compere
 
@@ -47,9 +47,8 @@
 
 ## 🌱 Current Projects
 
-- Pink Calendar Notes App
-- Car Auction System
-- Portfolio Website
+- AI Resume Analyzer
+- MAMA BLOOM
 
 ---
 ## 🌐 Connect With Me
