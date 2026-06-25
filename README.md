@@ -31,7 +31,7 @@
 ---
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=HasiniIsurindi&theme=matrix&no-frame=true)
+![Stats](https://github-profile-trophy.vercel.app/?username=HasiniIsurindi&theme=matrix&no-frame=true)
 
 ---
 ## 🛠 Technologies
