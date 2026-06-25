@@ -14,7 +14,10 @@
 <p align="center">
   <img src="assets/profile.gif" width="300">
 </p>
+
 ---
+
+
 ## 🌿 About Me
 
 - 🎓 Software Engineering Undergraduate
