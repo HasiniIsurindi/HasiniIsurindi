@@ -54,12 +54,6 @@ Building meaningful software, exploring emerging technologies, and constantly re
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HasiniIsurindi/HasiniIsurindi/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🌱 Current Projects
 
 🚀 AI Resume Analyzer
