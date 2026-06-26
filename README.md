@@ -36,7 +36,7 @@ Building meaningful software, exploring emerging technologies, and constantly re
 ## 🛠 Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,typescript,react,cs,dotnet,mysql,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,typescript,react,cs,dotnet,mysql,nodejs,php,git,github,vscode" />
 </p>
 
 ---
