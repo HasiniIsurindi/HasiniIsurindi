@@ -40,10 +40,6 @@ Building meaningful software, exploring emerging technologies, and constantly re
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniIsurindi&layout=compact&theme=chartreuse-dark)
-
----
-
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark&count_private=true&cache_seconds=0)
