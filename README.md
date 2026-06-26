@@ -48,6 +48,12 @@ Building meaningful software, exploring emerging technologies, and constantly re
 
 ---
 
+## 📈 Contribution Graph
+
+[![Hasini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HasiniIsurindi&theme=github-dark&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&hide_border=true)](https://github.com/HasiniIsurindi)
+
+---
+
 ## 🌱 Current Projects
 
 - AI Resume Analyzer
