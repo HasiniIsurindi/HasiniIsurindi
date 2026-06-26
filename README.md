@@ -65,7 +65,7 @@ Building meaningful software, exploring emerging technologies, and constantly re
   </a>
   
   <a href="https://linkedin.com/in/hasiniisurindi">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=LinkedIn&logoColor=black&labelColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=in&logoColor=black&labelColor=FFFFFF" />
   </a>
 
   <a href="https://hasini.codes">
