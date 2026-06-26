@@ -64,9 +64,13 @@ Building meaningful software, exploring emerging technologies, and constantly re
     <img src="https://img.shields.io/badge/GitHub-00FF66?style=for-the-badge&logo=github&logoColor=black&labelColor=FFFFFF" />
   </a>
   
-  <a href="https://linkedin.com/in/hasiniisurindi">
+ <!-- <a href="https://linkedin.com/in/hasiniisurindi">
  <img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FFFFFF" />
-  </a>
+  </a>-->
+
+  <a href="https://linkedin.com/in/hasiniisurindi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
   <a href="https://hasini.codes">
     <img src="https://img.shields.io/badge/Portfolio-00FF66?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=FFFFFF" />
