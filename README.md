@@ -60,8 +60,13 @@ Building meaningful software, exploring emerging technologies, and constantly re
 
 ## 🌱 Current Projects
 
-- AI Resume Analyzer
-- MAMA BLOOM
+🚀 AI Resume Analyzer
+
+- AI-powered resume screening and feedback system.
+
+🌸 MAMA BLOOM
+
+- A platform designed to support mothers through pregnancy and early parenthood.
 
 
 ---
