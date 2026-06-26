@@ -18,6 +18,8 @@
 
 ## 🌿 About Me
 
+Building meaningful software, exploring emerging technologies, and constantly refining my skills. I believe great applications are created through curiosity, creativity, and a commitment to continuous improvement.
+
 - 🎓 Software Engineering Undergraduate
 - 💻 Passionate about software development
 - 🌱 Currently learning React and Node.js
