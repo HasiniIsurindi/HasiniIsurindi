@@ -11,8 +11,10 @@
 <h3 align="center">Software Engineering Undergraduate</h3>
 
 <p align="center">
-🌿 Inspired by curiosity. Driven by code. 🌿
+🟩🌿🟩 Inspired by curiosity. Driven by code. 🟩🌿🟩
 </p>
+
+
 ---
 
 <p align="center">
