@@ -91,3 +91,8 @@ Building software that solves real-world problems while crafting intuitive user 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HasiniIsurindi&label=Profile+Views&color=green&style=for-the-badge"/>
 </p>
+
+---
+<p align="center">
+🌿 Where curiosity meets code, and ideas become reality. 🌿
+</p>
