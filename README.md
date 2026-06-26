@@ -10,13 +10,16 @@
 
 <h3 align="center">Software Engineering Undergraduate</h3>
 
+<p align="center">
+🌿 Inspired by curiosity. Driven by code. 🌿
+</p>
 ---
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2UycDAwNDBjMjd0eW1jcnZhY3l0bWpocGU5aGM0YThsa2c2cHVnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="450" alt="Hasini's Coding Journey">
 </p>
 
-## 🌿 About Me
+## 👩‍💻 About Me
 
 Building meaningful software, exploring emerging technologies, and constantly refining my skills. I believe great applications are created through curiosity, creativity, and a commitment to continuous improvement.
 
