@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff66,50:003300,100:000000&text=HASINI%20ISURINDI&fontColor=ffffff&fontSize=55&animation=twinkling&fontAlignY=40"/>
 
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Learning+%7C+Building+%7C+Improving;Future+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Learning+%7C+Building+%7C+Improving;Future+Full+Stack+Developer;Software+Engineering+Student" />
 </p>
 
 <h1 align="center">Hi, I'm Hasini 💚</h1>
