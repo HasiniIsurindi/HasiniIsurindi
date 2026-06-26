@@ -94,5 +94,5 @@ Building software that solves real-world problems while crafting intuitive user 
 
 ---
 <p align="center">
-🌿 <B><I> Where curiosity meets code, and ideas become reality.</I></B> 🌿
+🌿 <B><I> "Where curiosity meets code, and ideas become reality." </I></B> 🌿
 </p>
