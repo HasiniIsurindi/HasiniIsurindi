@@ -23,13 +23,12 @@
 
 ## 👩‍💻 About Me
 
-Building meaningful software, exploring emerging technologies, and constantly refining my skills. I believe great applications are created through curiosity, creativity, and a commitment to continuous improvement.
+Building software that solves real-world problems while crafting intuitive user experiences. I enjoy learning new technologies, turning ideas into applications, and continuously challenging myself through hands-on projects.
 
 - 💻 Passionate about software development
-- 🌱 Currently learning React and Node.js
+- 🌱 Currently learning AI Concepts
 - 🚀 Building practical projects
 - 🎤 IEEE Volunteer & Event Compere
-
 
 ---
 ## 🛠 Technologies
