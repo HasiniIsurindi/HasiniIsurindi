@@ -63,13 +63,6 @@ Building software that solves real-world problems while crafting intuitive user 
 </p>
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=HasiniIsurindi&theme=chartreuse-dark)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HasiniIsurindi&theme=react-dark)  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=HasiniIsurindi&theme=matrix)
-
----
 
 ## 📈 Contribution Graph
 
