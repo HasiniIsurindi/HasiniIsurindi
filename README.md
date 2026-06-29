@@ -47,6 +47,14 @@ Building software that solves real-world problems while crafting intuitive user 
 
 ---
 
+## GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HasiniIsurindi&theme=chartreuse-dark"/>
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 ![Hasini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HasiniIsurindi&theme=github-dark&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&hide_border=true)](https://github.com/HasiniIsurindi)
