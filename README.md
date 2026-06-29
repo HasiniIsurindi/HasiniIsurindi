@@ -43,28 +43,17 @@ Building software that solves real-world problems while crafting intuitive user 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark&count_private=true&cache_seconds=1)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasiniIsurindi&theme=chartreuse-dark&count_private=true&cache_seconds=0)
-
 ---
 ## 📊 GitHub Stats 2
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=HasiniIsurindi&theme=chartreuse-dark&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=HasiniIsurindi&theme=chartreuse-dark"/>
 </p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniIsurindi&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
----
-
-## 📊 GitHub Stats 3
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniIsurindi&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
