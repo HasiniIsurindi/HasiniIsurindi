@@ -41,7 +41,7 @@ Building software that solves real-world problems while crafting intuitive user 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark&count_private=true&cache_seconds=0)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark&count_private=true&cache_seconds=0)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasiniIsurindi&theme=chartreuse-dark&count_private=true&cache_seconds=0)
 
@@ -50,7 +50,7 @@ Building software that solves real-world problems while crafting intuitive user 
 ## 📈 Contribution Graph
 
  ![Hasini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HasiniIsurindi&theme=github-dark&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&hide_border=true)](https://github.com/HasiniIsurindi)
-
+-->
 ---
 
 ## 🌱 Current Projects
