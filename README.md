@@ -48,7 +48,7 @@ Building software that solves real-world problems while crafting intuitive user 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=HasiniIsurindi&theme=chartreuse-dark"/>
+  
 </p>
 
 <p align="center">
@@ -60,6 +60,7 @@ Building software that solves real-world problems while crafting intuitive user 
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasiniIsurindi&theme=chartreuse-dark"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=HasiniIsurindi&theme=chartreuse-dark"/>
 </p>
 
 ---
