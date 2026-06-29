@@ -59,7 +59,6 @@ Building software that solves real-world problems while crafting intuitive user 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HasiniIsurindi&theme=chartreuse-dark"/>
 <img src="https://streak-stats.demolab.com/?user=HasiniIsurindi&theme=chartreuse-dark"/>
 </p>
 
