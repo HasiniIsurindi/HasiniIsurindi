@@ -56,6 +56,8 @@ Building software that solves real-world problems while crafting intuitive user 
 </p>
 ---
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=HasiniIsurindi&theme=matrix)
+
 ## 🔥 GitHub Streak
 
 <p align="center">
