@@ -39,13 +39,7 @@ Building software that solves real-world problems while crafting intuitive user 
 
 ---
 
-## 📊 GitHub Stats 1
-
-![Stats](https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark&count_private=true&cache_seconds=1)
-
----
-
-## 📊 GitHub Stats 2
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasiniIsurindi&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
