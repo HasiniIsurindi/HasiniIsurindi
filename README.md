@@ -81,19 +81,19 @@ Building software that solves real-world problems while crafting intuitive user 
 ## 🌐 Connect With Me
 
 <p align="center">
-  
-  <a href="https://github.com/HasiniIsurindi">
-    <img src="https://img.shields.io/badge/GitHub-00FF66?style=for-the-badge&logo=github&logoColor=black&labelColor=FFFFFF" />
-  </a>
-  
-  <a href="https://linkedin.com/in/hasiniisurindi">
-  <img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FFFFFF" />
-  </a>
 
   <a href="https://hasini.codes">
     <img src="https://img.shields.io/badge/Portfolio-00FF66?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=FFFFFF" />
   </a>
 
+  <a href="https://linkedin.com/in/hasiniisurindi">
+  <img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FFFFFF" />
+  </a>
+  
+  <a href="https://github.com/HasiniIsurindi">
+    <img src="https://img.shields.io/badge/GitHub-00FF66?style=for-the-badge&logo=github&logoColor=black&labelColor=FFFFFF" />
+  </a>
+  
   <a href="mailto:hasiniisurindi@gmail.com">
     <img src="https://img.shields.io/badge/Email-00FF66?style=for-the-badge&logo=gmail&logoColor=black&labelColor=FFFFFF" />
   </a>
