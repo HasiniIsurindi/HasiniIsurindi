@@ -51,7 +51,7 @@ Building software that solves real-world problems while crafting intuitive user 
 </p>
 
 <p align="center">
-  <img height="180em" src="https://ghstats.dev/api/card?username=HasiniIsurindi&theme=dark"/>
+  <img src="https://ghstats.dev/api/card?username=HasiniIsurindi&theme=dark"/>
 </p>
 <p align="center">
   <img src="https://ghstats.dev/api/languages?username=HasiniIsurindi&theme=dark"/>
