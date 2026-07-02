@@ -50,7 +50,13 @@ Building software that solves real-world problems while crafting intuitive user 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniIsurindi&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HasiniIsurindi&theme=chartreuse-dark)
+<p align="center">
+  <img height="180em" src="https://ghstats.dev/api/card?username=HasiniIsurindi&theme=dark"/>
+</p>
+<p align="center">
+  <img src="https://ghstats.dev/api/languages?username=HasiniIsurindi&theme=dark"/>
+</p>
+
 
 ---
 
