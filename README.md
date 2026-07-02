@@ -47,7 +47,7 @@ Building software that solves real-world problems while crafting intuitive user 
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniIsurindi&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniIsurindi&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
