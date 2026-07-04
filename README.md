@@ -45,11 +45,6 @@ Building software that solves real-world problems while crafting intuitive user 
   <img src="https://ghstats.dev/api/card?username=HasiniIsurindi&bg=001A0D&text=FFFFFF&title_color=00FF66&icon_color=00FF66&border_color=00FF66"/>
 </p>
 
-<p align="center">
-  <img src="https://ghstats.dev/api/languages?username=HasiniIsurindi&theme=dark"/>
-</p>
-
-
 ---
 
 ## 🔥 GitHub Streak
