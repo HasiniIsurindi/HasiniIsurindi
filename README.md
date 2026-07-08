@@ -53,6 +53,9 @@ Building software that solves real-world problems while crafting intuitive user 
 <img src="https://streak-stats.demolab.com/?user=HasiniIsurindi&theme=chartreuse-dark&border_color=00FF66"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HasiniIsurindi&theme=chartreuse-dark&border_color=00FF66&v=2"/>
+</p>
 ---
 
 ## 📈 Contribution Graph
