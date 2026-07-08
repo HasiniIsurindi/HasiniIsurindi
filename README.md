@@ -49,7 +49,7 @@ Building software that solves real-world problems while crafting intuitive user 
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center"> -->
 <img src="https://streak-stats.demolab.com/?user=HasiniIsurindi&theme=chartreuse-dark&border_color=00FF66"/>
 </p>
 
