@@ -63,10 +63,10 @@ Building software that solves real-world problems while crafting intuitive user 
 
 ## 🌱 Current Projects
 
-🚀 AI Resume Analyzer
+🚀 Haz AI
 
-- AI-powered resume screening and feedback system.
-
+- Chat and Image Analyze
+  
 🌸 MAMA BLOOM
 
 - A platform designed to support mothers through pregnancy and early parenthood.
